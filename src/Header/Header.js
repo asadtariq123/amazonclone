@@ -51,7 +51,7 @@ const islogin = useSelector(state => state.allReducer.isLogin)
                         </>
                         : 
                         <>
-                        <span className="header__optionlineone">Hello Guest</span>
+                        <span className="header__optionlineone">Hello Dear</span>
                         <span className="header__optionlinetwo">Sign In</span>
                         </>
                     }
